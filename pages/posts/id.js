@@ -1,7 +1,7 @@
 /* 交流QQ群:七54五73七7八 */
 import { useState } from 'react'
 import { Dialog, Disclosure } from '@headlessui/react'
-import { Bars3Icon, MinusSmallIcon, PlusSmallIcon, XMarkIcon } from '@heroicons/react/24/outline'
+import { Bars3Icon, MinusSmallIcon, PlusSmallIcon, XMarkIcon } from '@heroicons/react/outline'
 import {
   ArrowPathIcon,
   CheckIcon,
@@ -10,7 +10,7 @@ import {
   FingerPrintIcon,
   LockClosedIcon,
   ServerIcon,
-} from '@heroicons/react/20/solid'
+} from '@heroicons/react/solid'
 
 const navigation = [
   { name: 'Product', href: '#' },
